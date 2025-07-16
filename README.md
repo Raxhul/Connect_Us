@@ -1,5 +1,7 @@
 # 🎧 RJ-connect – React Music Streaming App
 
+![RJ-connect Music App UI](./assets/banner.png)
+
 **RJ-connect** is a modern, responsive music streaming web app built using **React**. Designed for smooth audio playback and intuitive navigation, it lets users experience music with features like playlists, shuffle, loop, and album-based song grouping.
 
 ---
@@ -81,7 +83,7 @@ Connect_Us/
 
 ## 📸 Screenshots
 
-*Coming soon… (Add images of your UI here)*
+*Replace the image above (./assets/banner.png) with your own project screenshot.*
 
 ---
 
@@ -90,7 +92,6 @@ Connect_Us/
 - 🔍 Add search functionality
 - 📱 Improve mobile responsiveness
 - 📂 Playlist saving & user preferences
-- ☁️ Backend integration (e.g., Firebase or Node.js)
 - 📤 Upload songs (admin panel)
 
 ---
@@ -99,12 +100,32 @@ Connect_Us/
 
 **RJ Raghul**  
 React Developer | BSc Computer Science Student  
-📂 GitHub: [Raxhul](https://github.com/Raxhul)
+📂 GitHub: [Raxhul](https://github.com/Raxhul)  
+📸 Instagram: [![Instagram Badge](https://img.shields.io/badge/-@mr_raxhul-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mr_raxhul/)
 
 ---
 
 ## 📜 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is released under a custom license.
 
----
+> ⚠️ For personal or educational use only. Commercial use and redistribution are **not permitted** without written permission.
+
+>RJ-connect License
+
+Copyright (c) 2025 RJ Raghul
+
+Permission is hereby granted to any developer or student to use this code for
+educational or personal projects, provided that this copyright notice and 
+permission notice appear in all copies.
+
+You may:
+- Use and modify the code for personal/non-commercial purposes
+- Share it with proper credit to the original author
+
+You may NOT:
+- Use this code in commercial products or services
+- Reupload or redistribute this project as your own
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
